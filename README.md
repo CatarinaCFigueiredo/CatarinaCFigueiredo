@@ -1,8 +1,9 @@
-- 👋 Hi! Welcome to my Github profile.
-- My name is Catarina 
-- 👀 I’m interested in software engeneering and computer science
-- 🌱 I’m currently learning frontend and backend technologies and tools
-- 💞️ I’m looking to collaborate on cool projects!
+ ## 👋 Hi everyone!
+ ### Welcome to my GitHub profile
+- My name is Catarina and I´m passionate about science and innovation.
+- 👀 I’m interested in software engineering and computer science
+- 🌱 Currently learning frontend and backend technologies and tools
+- 💞️ Looking to collaborate on cool projects!
 - 📫 How to reach me ...
 
 <!---
