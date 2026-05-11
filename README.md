@@ -3,7 +3,7 @@
 I'm an Electrical and Computer Engineering student at ISEP, focused on software development and problem-solving.
 
 I enjoy building practical applications, understanding how systems work at a deeper level, and improving my solutions until they are clear, reliable, and maintainable. 
-Beyond that, i really enjoy robotics, embedded systems and space technologies. 
+Beyond that, I am especially interested in robotics, embedded systems and space.
 
 ---
 
